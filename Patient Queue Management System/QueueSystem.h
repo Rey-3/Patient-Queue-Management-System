@@ -1,5 +1,5 @@
 //****************************************************************************************************************************************************************
-// These codes were written by Chew Zhi Boon And Goay Wei Jun.
+// These codes were written by Chew Zhi Boon 
 // The linked-list-based queue algorithm efficiently manages patient queues through a Queue class, where each node stores patient details. Enqueuing involves
 // adding patients to the queue's end, while dequeuing removes patients from the front, ensuring a first-in-first-out (FIFO) order. The algorithm supports 
 // priority-based operations, enabling specific patients to be prioritized by moving them to the front. Patient searching is implemented recursively, efficiently
