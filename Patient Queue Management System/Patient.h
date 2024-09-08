@@ -1,5 +1,5 @@
 //***************************************************************************************************************************************************
-// These codes were written by Chew Zhi Boon And Goay Wei Jun.
+// These codes were written by Chew Zhi Boon 
 // The `Patient` class to represent individual patient. Constructors initialize patient information, and setter methods allow modification. 
 // The class includes getter methods for retrieving specific details and a print function for formatted output. The print function dynamically 
 // adjusts formatting based on the length of patient information, ensuring a visually appealing presentation. It enables easy access, modification,
