@@ -1,5 +1,5 @@
 //**************************************************************************************************************************************************
-// These codes were written by Chew Zhi Boon And Goay Wei Jun.
+// These codes were written by Chew Zhi Boon
 // The `Process` class for managing patient queues in a healthcare system. The class uses 3 instances of a `Queue` class `normalQueue`, 
 //`priorityQueue`, and `mergeQueue` to represent different patient queues. The program includes functionalities for patient registration,
 // managing different queues, and merging queues based on priority criteria.
