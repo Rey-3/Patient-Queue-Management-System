@@ -1,5 +1,5 @@
 //*****************************************************************************************************************************************
-// These codes were written by Chew Zhi Boon And Goay Wei Jun.
+// These codes were written by Chew Zhi Boon
 // The provided C++ code defines a program for managing patient queues in a healthcare setting.The program utilizes three different queues,
 // Normal Queue, Priority Queue, and Merge Queue. It allows users to register patients, enqueue them based on priority criteria, and manage 
 // the queues through various options,the queues through various options, Patient registration involves capturing essential details such as
